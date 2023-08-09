@@ -16,7 +16,7 @@ deployment passport
 
 component passport
 
-![WhatsApp Image 2023-08-08 at 9 18 21 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/78e7894c-aeff-4bd5-9014-06390a8b541c)
+![componenet passport](https://github.com/janumavilla/CSA11-ooad/assets/112294762/a5f74be3-23d0-4dbb-9085-7bfd4ee58822)
 
 activity passport
 
@@ -25,6 +25,11 @@ activity passport
 usecase passport
 
 ![use case passport](https://github.com/janumavilla/CSA11-ooad/assets/112294762/6facd0df-72d8-444f-9f53-e57054ccf7d6)
+
+collaboration passport
+
+![collaboration passport](https://github.com/janumavilla/CSA11-ooad/assets/112294762/b410a82d-69eb-44c7-840a-be09e70b5fad)
+
 
 
 
