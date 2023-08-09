@@ -18,4 +18,9 @@ component passport
 
 ![WhatsApp Image 2023-08-08 at 9 18 21 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/78e7894c-aeff-4bd5-9014-06390a8b541c)
 
+activity passport
+
+![activity passportr](https://github.com/janumavilla/CSA11-ooad/assets/112294762/5f019642-9360-4e49-a93d-44c8dc9cf5b4)
+
+
 
