@@ -22,5 +22,10 @@ activity passport
 
 ![activity passportr](https://github.com/janumavilla/CSA11-ooad/assets/112294762/5f019642-9360-4e49-a93d-44c8dc9cf5b4)
 
+usecase passport
+
+![use case passport](https://github.com/janumavilla/CSA11-ooad/assets/112294762/6facd0df-72d8-444f-9f53-e57054ccf7d6)
+
+
 
 
