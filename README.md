@@ -30,6 +30,18 @@ collaboration passport
 
 ![collaboration passport](https://github.com/janumavilla/CSA11-ooad/assets/112294762/b410a82d-69eb-44c7-840a-be09e70b5fad)
 
+EXP:2 BOOK BANK PROCESS
+
+use case book
+
+![WhatsApp Image 2023-08-09 at 10 58 42 AM (1)](https://github.com/janumavilla/CSA11-ooad/assets/112294762/d68f4a9c-6626-4b36-ac4f-eaf2c5a844f3)
+
+clss book
+
+![WhatsApp Image 2023-08-09 at 10 59 44 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/3f443eab-45dc-4528-a7f9-8e689470a955)
+
+
+
 
 
 
