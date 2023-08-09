@@ -48,6 +48,11 @@ deployment book
 
 ![WhatsApp Image 2023-08-09 at 12 42 30 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/43eb1812-0353-4d3e-8e1b-621400cd0ae8)
 
+component book
+
+![WhatsApp Image 2023-08-09 at 12 45 25 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/c17034f2-624a-4013-9596-a32f9f02044c)
+
+
 
 
 
