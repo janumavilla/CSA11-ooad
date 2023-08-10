@@ -64,6 +64,10 @@ activity book
 
 ![activity book](https://github.com/janumavilla/CSA11-ooad/assets/112294762/b7381bea-7bd1-4fcd-80b2-c928a81b445c)
 
+package book
+
+![WhatsApp Image 2023-08-10 at 1 25 15 PM (2)](https://github.com/janumavilla/CSA11-ooad/assets/112294762/eaf36411-dfa4-4f1d-8632-b79128933579)
+
 3:EXAM REGISTRATION PANEL
 
 usecase exam
@@ -100,7 +104,7 @@ sequence exam
 
 package exam
 
-![WhatsApp Image 2023-08-10 at 1 25 15 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/2c0bb2ea-3b05-4b91-a55f-a9985b9bf6ed)
+
 
 4:STOCK MAINTAINANCE SYSTEM
 
