@@ -52,6 +52,16 @@ component book
 
 ![WhatsApp Image 2023-08-09 at 12 45 25 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/c17034f2-624a-4013-9596-a32f9f02044c)
 
+sequence book
+
+![WhatsApp Image 2023-08-09 at 12 54 13 PM (1)](https://github.com/janumavilla/CSA11-ooad/assets/112294762/ebe7fcbd-1c52-4343-ab4b-188c569ec97e)
+
+collaboration book
+
+![WhatsApp Image 2023-08-09 at 1 00 47 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/df3e59bc-b8ec-467e-b1ff-b228f37c424f)
+
+
+
 
 
 
