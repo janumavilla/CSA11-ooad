@@ -98,6 +98,47 @@ sequence exam
 
 ![WhatsApp Image 2023-08-10 at 9 51 22 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/97358bcb-5d9a-467a-9a61-7ea4da815855)
 
+4:STOCK MAINTAINANCE SYSTEM
+
+class stock
+
+![WhatsApp Image 2023-08-10 at 9 29 20 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/f403f03b-0d9e-4e94-814c-b0e049c0c9d5)
+
+state stock
+
+![WhatsApp Image 2023-08-10 at 10 03 59 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/20e4f69f-111f-4d6a-96a2-16362427624f)
+
+collaboration stock
+
+![WhatsApp Image 2023-08-10 at 9 39 26 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/3e11ee57-17ac-4cca-a7fb-42f4181b7a96)
+
+activity stock
+
+![WhatsApp Image 2023-08-10 at 10 00 10 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/cd39898b-04ce-425d-968e-de29cb83f571)
+
+component stock
+
+![WhatsApp Image 2023-08-10 at 9 41 27 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/442e9a26-d25f-4f42-a51e-b03965169115)
+
+deployment stock
+
+![WhatsApp Image 2023-08-10 at 9 45 25 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/c6230e1e-cb43-456f-a701-df0b2203db63)
+
+usecase stock
+
+![usecase stock](https://github.com/janumavilla/CSA11-ooad/assets/112294762/e04abc11-e0ea-40b3-918a-26507cca7411)
+
+sequence stock
+
+![sequence stock](https://github.com/janumavilla/CSA11-ooad/assets/112294762/62d0846a-5d50-474c-b6b3-b7705a0bc6b6)
+
+
+
+
+
+
+
+
 
 
 
