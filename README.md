@@ -98,6 +98,10 @@ sequence exam
 
 ![WhatsApp Image 2023-08-10 at 9 51 22 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/97358bcb-5d9a-467a-9a61-7ea4da815855)
 
+package exam
+
+![WhatsApp Image 2023-08-10 at 1 25 15 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/2c0bb2ea-3b05-4b91-a55f-a9985b9bf6ed)
+
 4:STOCK MAINTAINANCE SYSTEM
 
 class stock
