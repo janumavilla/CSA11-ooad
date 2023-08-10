@@ -132,6 +132,11 @@ sequence stock
 
 ![sequence stock](https://github.com/janumavilla/CSA11-ooad/assets/112294762/62d0846a-5d50-474c-b6b3-b7705a0bc6b6)
 
+package stock
+
+![WhatsApp Image 2023-08-10 at 10 45 14 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/33f65292-1ade-4e84-b523-40e1d42dd8fc)
+
+
 
 
 
