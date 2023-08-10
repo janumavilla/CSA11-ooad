@@ -64,6 +64,43 @@ activity book
 
 ![activity book](https://github.com/janumavilla/CSA11-ooad/assets/112294762/b7381bea-7bd1-4fcd-80b2-c928a81b445c)
 
+3:EXAM REGISTRATION PANEL
+
+usecase exam
+
+![WhatsApp Image 2023-08-10 at 9 10 53 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/e125ba23-e7f8-46a2-8f48-fdd23939fef7)
+
+class exam
+
+![WhatsApp Image 2023-08-10 at 8 57 37 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/731224ed-42be-40a8-bcd0-16924be49c9f)
+
+state exam
+
+![WhatsApp Image 2023-08-10 at 9 03 23 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/f7b104a8-77dd-460d-9d14-20f447ec616c)
+
+component exam
+
+![WhatsApp Image 2023-08-10 at 9 12 45 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/6570dd97-c596-40bd-94fb-1b256b43f41f)
+
+deployment exam
+
+![WhatsApp Image 2023-08-10 at 9 01 30 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/62d1cc96-ff50-4434-afd0-18a471a1f85f)
+
+activity exam
+
+![WhatsApp Image 2023-08-10 at 9 00 49 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/23217cd0-3094-4f89-87f6-5124601d80f4)
+
+collaboration exam
+
+![WhatsApp Image 2023-08-10 at 8 58 42 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/67bde369-32ed-4542-89b5-e2b1537b833a)
+
+
+
+
+
+
+
+
 
 
 
