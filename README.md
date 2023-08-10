@@ -94,6 +94,11 @@ collaboration exam
 
 ![WhatsApp Image 2023-08-10 at 8 58 42 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/67bde369-32ed-4542-89b5-e2b1537b833a)
 
+sequence exam
+
+![WhatsApp Image 2023-08-10 at 9 51 22 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/97358bcb-5d9a-467a-9a61-7ea4da815855)
+
+
 
 
 
