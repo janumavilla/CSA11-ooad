@@ -128,7 +128,7 @@ activity stock
 
 component stock
 
-![WhatsApp Image 2023-08-10 at 9 41 27 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/442e9a26-d25f-4f42-a51e-b03965169115)
+![WhatsApp Image 2023-08-10 at 9 41 27 AM (1)](https://github.com/janumavilla/CSA11-ooad/assets/112294762/da52bdec-036e-43f9-8d42-c947a5845afe)
 
 deployment stock
 
