@@ -212,6 +212,23 @@ activity credit
 
 ![WhatsApp Image 2023-08-11 at 12 45 13 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/2a6b1a23-4a61-40b0-96fa-11dbbea29e97)
 
+EXP:8 SOFTWARE PERSONNAL MANAGEMENT
+
+usecase software
+
+![WhatsApp Image 2023-08-11 at 1 11 24 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/c1405954-40eb-4972-ac27-19d9bc41185f)
+
+sequence software
+
+![WhatsApp Image 2023-08-11 at 1 01 06 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/03af2c84-d51f-4cec-a0aa-ca8b1f879710)
+
+activity software
+
+![WhatsApp Image 2023-08-11 at 1 11 33 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/dca1f3b2-3a5f-4c30-9caf-f13f2279cba9)
+
+
+
+
 
 
 
