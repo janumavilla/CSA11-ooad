@@ -208,6 +208,11 @@ sequence credit
 
 ![WhatsApp Image 2023-08-11 at 12 38 38 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/3b5fd6c7-5893-4b25-b146-32ed687d04a9)
 
+activity credit
+
+![WhatsApp Image 2023-08-11 at 12 45 13 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/2a6b1a23-4a61-40b0-96fa-11dbbea29e97)
+
+
 
 
 
