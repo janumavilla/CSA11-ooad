@@ -184,6 +184,23 @@ package course
 
 ![WhatsApp Image 2023-08-10 at 1 17 49 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/ee2e6793-d731-41f7-ba2f-c7060ebc2d51)
 
+EXP:6 E-TICKET BOOKING
+
+usecase ticket
+
+![WhatsApp Image 2023-08-11 at 8 26 03 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/be5653d6-1342-4dd0-9054-1dd3d213840a)
+
+sequence ticket
+
+![WhatsApp Image 2023-08-11 at 8 40 40 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/c6ca8b74-740f-4be4-b98d-9742c6ab6c0a)
+
+activity ticket
+
+![WhatsApp Image 2023-08-11 at 9 00 58 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/1d2c2c40-feaa-44b1-9cff-67a8820c50ec)
+
+
+
+
 
 
 
