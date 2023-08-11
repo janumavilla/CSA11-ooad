@@ -198,6 +198,18 @@ activity ticket
 
 ![WhatsApp Image 2023-08-11 at 9 00 58 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/1d2c2c40-feaa-44b1-9cff-67a8820c50ec)
 
+EXP:7 CREDIT CARD PROCESSING SYSTEM
+
+usecase credit
+
+![WhatsApp Image 2023-08-11 at 12 38 37 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/91af4b8e-60e5-476d-b715-74e1180f157d)
+
+sequence credit
+
+![WhatsApp Image 2023-08-11 at 12 38 38 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/3b5fd6c7-5893-4b25-b146-32ed687d04a9)
+
+
+
 
 
 
