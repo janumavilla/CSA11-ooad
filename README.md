@@ -226,6 +226,28 @@ activity software
 
 ![WhatsApp Image 2023-08-11 at 1 11 33 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/dca1f3b2-3a5f-4c30-9caf-f13f2279cba9)
 
+EXP 9:E-BOOK MANAGEMENT SYSTEM
+
+usecase ebook
+
+![WhatsApp Image 2023-08-12 at 8 43 08 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/9ccd2413-9da7-4ad3-acdd-d6269d4e5032)
+
+class e book
+
+![WhatsApp Image 2023-08-12 at 8 48 11 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/1dd98a2f-a573-4904-bd24-7ff3653713a9)
+
+sequence ebook
+
+![WhatsApp Image 2023-08-12 at 8 56 58 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/faf45439-2227-4925-beb7-f20e49bd00ad)
+
+activity book
+
+![WhatsApp Image 2023-08-12 at 9 02 57 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/6e14c6a2-e913-4440-bcca-bb0d6ec8a2d6)
+
+
+
+
+
 
 
 
