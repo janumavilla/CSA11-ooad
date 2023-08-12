@@ -244,6 +244,30 @@ activity book
 
 ![WhatsApp Image 2023-08-12 at 9 02 57 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/6e14c6a2-e913-4440-bcca-bb0d6ec8a2d6)
 
+EXP10: RECRUITMENT SYSTEM
+
+usecase recruitment
+
+![WhatsApp Image 2023-08-12 at 9 10 09 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/37b2fc3b-3650-4f26-8fda-272198359879)
+
+class recruitment
+
+![WhatsApp Image 2023-08-12 at 9 14 51 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/4ef29c1d-a347-48c4-8f10-5b6e591b5ef2)
+
+sequence recruitment
+
+![WhatsApp Image 2023-08-12 at 9 33 28 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/9dc90f0b-2b23-409d-8bc2-9086e6bd5471)
+
+activity recruitment
+
+![WhatsApp Image 2023-08-12 at 9 40 56 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/03b2ec5d-428e-4cec-a9c7-82586791a370)
+
+
+
+
+
+
+
 
 
 
