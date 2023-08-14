@@ -1,3 +1,42 @@
+MODEL LAB EXAM:
+EXP1:Super market management system:
+
+use case super market
+
+![WhatsApp Image 2023-08-14 at 2 10 04 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/b37efe5a-b40b-4637-b547-ec363372f3f2)
+
+class super market
+
+![WhatsApp Image 2023-08-14 at 2 10 39 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/f5ae2976-67a0-4a9c-96ad-8f727974fd6e)
+
+state super market
+
+![WhatsApp Image 2023-08-14 at 2 11 13 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/ba5a15dc-b861-4736-ada4-f14cb2e2d6e3)
+
+sequence super market
+
+![WhatsApp Image 2023-08-14 at 2 11 45 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/b4a6d5d4-2b9e-4abe-96c5-a3e6279185fd)
+
+EXP2: E COMMERCE REGISTRATION SYSTEM
+
+usecase e commerce
+
+![WhatsApp Image 2023-08-14 at 2 12 20 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/c4dedda6-783f-4b4b-a495-837ea6c97849)
+
+collaboration e commerce
+
+![WhatsApp Image 2023-08-14 at 2 12 53 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/cc4bc191-da7b-48f4-80cd-d91369af6c9b)
+
+deployment e commerce
+
+![WhatsApp Image 2023-08-14 at 2 13 27 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/0258023d-2f6b-478e-b635-c47fef7b0c20)
+
+activity e commerce
+
+![WhatsApp Image 2023-08-14 at 2 13 56 PM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/11fc0791-5542-411b-9f47-573d8c40fbea)
+
+
+
 EXP1:PASSPORT MANAGEMENT SYSTEM
 
 class passport
@@ -261,6 +300,7 @@ sequence recruitment
 activity recruitment
 
 ![WhatsApp Image 2023-08-12 at 9 40 56 AM](https://github.com/janumavilla/CSA11-ooad/assets/112294762/03b2ec5d-428e-4cec-a9c7-82586791a370)
+
 
 
 
